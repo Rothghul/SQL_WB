@@ -31,8 +31,8 @@ DROP TABLE IF EXISTS Kunde;
 
 CREATE TABLE IF NOT EXISTS Kunde,
 
- K_name VARCHAR (45),
- K_alter TINYINT;
+ K_name VARCHAR (45)
+ MODIFY K_alter TINYINT;
 
 
 --- Tabelle anzeigen
