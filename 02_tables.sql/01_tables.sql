@@ -29,9 +29,9 @@ DROP TABLE IF EXISTS Kunde;
 
 --- Tabelle anlegen
 
-CREATE TABLE IF NOT EXISTS Kunde;
+CREATE TABLE IF NOT EXISTS Kunde,
 
- K_name VARCHAR (45);
+ K_name VARCHAR (45),
  K_alter TINYINT;
 
 
