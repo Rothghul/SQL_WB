@@ -1,9 +1,0 @@
-SOURCE 01_basics\rdms.SQL
-
-    #tabellen
-
-    source 02_basics\rdms.sql;
-
-Create DATABASES boo;
-
-    source SQL_WB\02_tables.sql\01_tables.sql
